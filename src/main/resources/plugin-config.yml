@@ -1,0 +1,8 @@
+basePath: C:/Users/tang/Desktop/plugin
+modules:
+  - test-module-1
+  - test-module-2
+plugins:
+  - name: 客户A的插件
+    path: plugin-A
+    enable: true

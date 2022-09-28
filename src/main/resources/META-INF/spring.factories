@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.tang.config.MyPluginEnableAutoConfiguration
+
+org.springframework.boot.SpringApplicationRunListener=\
+com.tang.config.MyPluginRunningConfig
